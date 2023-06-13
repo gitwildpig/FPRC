@@ -11,7 +11,7 @@ This is a project demo of the FPRC strategy, which helps users to analyze the pe
 ## Preparation
 
 To run the demo properly, your computer needs to meet the following requirements:
-- Python 3.8[important]: Please make sure you have [Python](https://www.python.org/downloads/) installed. The first recommendation is to use python 3.8, higher versions are theoretically possible.
+- Python 3.8[!important]: Please make sure you have [Python](https://www.python.org/downloads/) installed. The first recommendation is to use python 3.8, higher versions are theoretically possible.
 
 - BuildTools[optional]: If your system is "Linux", you do not need to pay attention to this.
 
