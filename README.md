@@ -123,4 +123,4 @@ This command will test the cumulative wealth of FPRC strategies with different a
 
 ## Disclaimer
 
-This software is only used for verification and exchange of learning purposes by editors and reviewers of EJOR. And it is far from any production environment. Do not risk money which you are afraid to lose. Use the software at your own risk. The authors assume no responsibility for your trading results.
+This software is only used for verification and exchange of learning purposes by editors and reviewers of Journal of Systems Engineering. And it is far from any production environment. Do not risk money which you are afraid to lose. Use the software at your own risk. The authors assume no responsibility for your trading results.
