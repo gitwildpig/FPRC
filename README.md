@@ -2,7 +2,7 @@
 
 waiting for new decides, the code is closed temporary. **you can check the appendix first**.
 
-## The following content is not available until our work is received. Please wait for it :)
+## The following content is not available until our work is accepted. Please wait for it :)
 
 ![platform](./docimg/platform.svg) ![dependencies](./docimg/dependencies.svg) ![License](./docimg/license.svg)  ![Contributors](./docimg/contributors.svg)  ![Reposize](./docimg/reposize.svg)
 
