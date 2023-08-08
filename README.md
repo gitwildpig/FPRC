@@ -52,7 +52,7 @@ optional arguments:
 	
 	- `heatmaps`: calculate the heat maps of FPRC strategy in all the dataset.
 	
-	- `heatmaps_alpha`: calculate the heat maps of alpha_k of FPRC strategy in all the dataset.
+	- `heatmaps_alpha`: calculate the heat maps of `alpha_k` of FPRC strategy in all the dataset.
 	
 		for example: `--r="performance"` will calculate the performance of all the strategies. 
 	
